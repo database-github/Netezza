@@ -1,0 +1,2 @@
+# Netezza
+Repository for Netezza
